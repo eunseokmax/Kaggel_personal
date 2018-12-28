@@ -1,2 +1,3 @@
-# Kaggel_personal
-Kaggle
+# Kaggel 플랫폼을 보고 따라하기 
+
+ - 프로그래머스 > 실습으로 배우는 데이터 사이언스 
