@@ -1,0 +1,16 @@
+
+--------------------------------------------------------------------------------------------------------------------
+2019.01.15 문제점
+
+72번줄
+print('Minimum Salary is USD $', salary['Salary'].dropna().astype(int).min())
+최소값 문제
+최소값 -21478348 나옴.
+
+
+ 78번줄 문제 
+plt.subplots(figsize=(15,8))
+salary=salary[salary['Salary']?]
+sns.distplot(salary['Salary'])
+plt.axvline(salary['Salary'].median(), linestyle='dashed')
+plt.title('Salary Distribution',size=15)
