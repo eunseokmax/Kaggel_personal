@@ -14,3 +14,7 @@ salary=salary[salary['Salary']?]
 sns.distplot(salary['Salary'])
 plt.axvline(salary['Salary'].median(), linestyle='dashed')
 plt.title('Salary Distribution',size=15)
+
+
+78번줄에서 금액 구간 설정 안해줘서 에러 표시 .. 문제 해결
+------------------------------------------------------
