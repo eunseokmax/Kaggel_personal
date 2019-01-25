@@ -13,6 +13,9 @@
  9. 구글 머신러닝 단기집중과정 - Pandas
  10. 구글 머신러닝 단기집중과정 - 텐서플로우
 ----
+ ## Kaggle 다른 Dataset으로도 해보기
+ 1. FIFA19 Complete player dataset
+----
  ## 개발환경
  - jupyter notebook
 ----
